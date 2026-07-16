@@ -1,0 +1,6 @@
+*.lua linguist-language=Lua
+
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.json linguist-detectable=false
+*.gitattributes linguist-detectable=false
